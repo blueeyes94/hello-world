@@ -1,2 +1,6 @@
 # hello-world
-coba repository
+
+Hello guys!
+
+This is first time i used github
+i hope someday i will master web developer
